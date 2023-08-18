@@ -1,0 +1,114 @@
+@charset "UTF-8";
+
+
+@media screen and (min-width:768px) and (max-width:1023px) {
+    
+    
+    body{
+        background: black url(../IMG/back-tablet.jpg) no-repeat;
+        background-size: cover;
+        background-position: center center;
+    }
+    
+    
+    main{
+        margin: 30px;
+    }
+       
+    img{
+        display: block;
+        margin: auto;
+    } /* esses dois codigo faz com que a img fica ao centro*/
+    
+    .cel{
+        display: none;
+    }
+    
+    .print{
+        display: none;
+    }
+    
+    .TV{
+        display: none;
+    }
+    
+    .pc{
+        display: none;
+    }
+    
+}
+
+
+@media screen and (min-width:1024px) and (max-width:1900px) {
+    body{
+        background: black url(../IMG/back-pc.jpg) no-repeat;
+        background-size: cover;
+        background-position: center center;
+    }
+    
+    
+    main{
+        margin-top: 40px;
+        margin-left: 70px;
+    }
+       
+    img{
+        display: block;
+        margin: auto;
+    } /* esses dois codigo faz com que a img fica ao centro*/
+    
+    .cel{
+        display: none;
+    }
+    
+    .print{
+        display: none;
+    }
+    
+    .TV{
+        display: none;
+    }
+    
+    .tablet{
+        display: none;
+    }
+    
+
+}
+
+
+@media screen and (min-width:1900px){
+    body{
+        background: black url(../IMG/back-tv.jpg) no-repeat;
+        background-size: cover;
+        background-position: center center;
+    }
+    
+    
+    main{
+        margin: 130px;
+    }
+       
+    img{
+        display: block;
+        margin: auto;
+    } /* esses dois codigo faz com que a img fica ao centro*/
+    
+    .cel{
+        display: none;
+    }
+    
+    .print{
+        display: none;
+    }
+    
+    .pc{
+        display: none;
+    }
+    
+    .tablet{
+        display: none;
+    }
+    
+
+}

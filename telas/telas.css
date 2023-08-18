@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+@media screen and (max-width:767px){
+
+
+
+
+html{
+    
+    height: 100vh;
+}
+
+body{
+    background: black url(../IMG/back-phone.jpg) no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+main{
+    margin: 10px;
+}
+
+img{
+    display: block;
+    margin: auto;
+} /* esses dois codigo faz com que a img fica ao centro*/
+
+.tablet{
+    display: none;
+}
+
+.print{
+    display: none;
+}
+
+.TV{
+    display: none;
+}
+
+.pc{
+    display: none;
+}
+
+
+
+}
+
+
