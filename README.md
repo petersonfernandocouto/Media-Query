@@ -1,6 +1,6 @@
 # <h1>Media Query </h1>
  Teste de media query
-https://petersonfernandocouto.github.io/TELASmedia/
+https://petersonfernandocouto.github.io/Media-Query/
 
 Você pode verificar as imagens mudando de acordo com o tamanho da tela.
 
